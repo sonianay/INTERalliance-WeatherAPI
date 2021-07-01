@@ -1,4 +1,4 @@
-const key = "49041418e4eda9ea8a88d1941da4b38b";
+const key = "Enter your OWN API KEY :))";
 const keyParam = "&appid=" + key;
 const url = "https://api.openweathermap.org/data/2.5/weather?q=";
 const units = "&units=imperial";
